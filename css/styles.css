@@ -45,7 +45,7 @@ h2 {
 h3 {
   font-size: 26px;
   justify-content; center;
-  background-color: darkgreen;
+  background-color: #ff9800;  /* orange, was: darkgreen */
   color: rgb(200,200,200);
 }
 h4 {
