@@ -10,9 +10,9 @@ body {
   align-items: center;
   flex-direction: column;
   width: 700px;  /* 300%; */
-  background-color: rgba(166, 24, 97, 0.8);  /* rgba(255,0,0,.7) 65, 105, 224 .7 */
+  background-color: rgba(127, 17, 224, 0.8);
   border-radius: 30px;  /* 10px; */
-  box-shadow: 0 0 8px 0 rgb(3, 75, 85);
+  box-shadow: 0 0 8px 0 rgb(170, 109, 234);
   margin-top: 100px;  /* 100px */
 }
   
