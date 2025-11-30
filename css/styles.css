@@ -1,7 +1,7 @@
 /* styles.css in silus-counter-ii of silus-counter-ii.bauska.org */
 body {
   display: flex;
-  justify-content: center;  /* center; */
+  justify-content: center;
   align-items: center;
 }
 .back {
@@ -10,19 +10,19 @@ body {
   align-items: center;
   flex-direction: column;
   width: 700px;  /* 300%; */
-  background-color: rgba(57, 255, 20, 0.8);
+  background-color: rgb(200, 200, 200;  /* light gray */
   border-radius: 30px;  /* 10px; */
-  box-shadow: 0 0 8px 0 rgb(57, 255, 20);
-  margin-top: 100px;  /* 100px */
+  box-shadow: 0 0 8px 0 rgb(57, 255, 20);  /* vivid lime green */
+  margin-top: 100px;
 }
   
 #clicker {
   width: 200px;  /* 200px */
   height: 50px;  /* 50px */
   border-radius: 10px;
-  box-shadow: 0 0 8px 0 rgb(255, 255, 0);  /* 3, 75, 185 */
-  background-color: #ff9800;
-  color: rgb(0, 0, 0);  /* 255, 255, 255 */
+  box-shadow: 0 0 8px 0 rgb(255, 255, 0);  /* pure yellow, was: strong blue: rgb(3, 75, 185) */
+  background-color: #ff9800;  /* pure orange */
+  color: rgb(0, 0, 0);  /* black, was: white rgb(255, 255, 255) */
   margin-bottom: 50px; /* 100px */
   transition: 2s;
 }
@@ -32,24 +32,24 @@ body {
 }
 
 h1 {
-  color: rgba(255, 255, 255, 1.0);
-  font-size: 64px;  /* 64px; */
+  color: rgba(255, 255, 255, 1.0);  /* white */
+  font-size: 64px;
   justify-content: center;
   letter-spacing: 0.1em;
 }
 h2 {
   font-size: 32px;
   justify-content: center;
-  color: rgb(0, 0, 0);  /* 255, 255, 255 */
+  color: rgb(0, 0, 0);  /* black, was white; 255, 255, 255 */
 }
 h3 {
   font-size: 26px;
   justify-content; center;
-  background-color: #ff9800;  /* orange, was: darkgreen */
-  color: rgb(0,0,0);  /* 200, 200, 200 */
+  background-color: #ff9800;  /* pure orange, was: darkgreen */
+  color: rgb(0,0,0);  /* black, was dark red; rgb(200, 200, 200) */
 }
 h4 {
-  color: darkgreen;
+  color: #00b300;  /* strong lime green */
   font-size: 14px;
 }
 
@@ -61,23 +61,23 @@ h4 {
   100% {transform: scale(1);}
 }
 
-<!-- confetti-container & more -->
+/* confetti-container & more */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap');
 
 #confetti-container {
-  position: absolute;  /* absolute */
+  position: absolute;
   top: 0;
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 100vh;  /* 100vh; */
+  height: 100vh;
 }
 
 .card {
-  background-color: #fff;
+  background-color: #ffffff;  /* white */
   max-width: 700px;
   border-radius: 10px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);  /* black */
   padding: 2rem;
 }
 .card p {
@@ -101,7 +101,7 @@ h4 {
     transform: translateY(100vh) rotate(360deg);
   }
 }
-<!-- shadow/confetti -->
+/* shadow/confetti */
 button {
   margin-bottom: 10px;
   display: block;
