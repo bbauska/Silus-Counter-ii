@@ -1,4 +1,4 @@
-# Silus-counter-3
+# Silus-counter-3 (Cruz)
 Create click counter for Silus' YouTube channels; Silus Gaming World &amp; Silus Spider.
 
 Meet Cruz, brother of Steak. The YouTuber who's flipping the script on youTube content! With a unique blend 
