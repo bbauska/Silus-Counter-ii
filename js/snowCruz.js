@@ -149,7 +149,7 @@ function appendSnow() {
       flake.classList.add('snowflake');
       flake.setAttribute('aria-hidden', 'true');
       flake.setAttribute('role', 'presentation');
-      flake.innerText = '🐼';
+      flake.innerText = '👹';
       resetFlake(flake);
       flakes.push(flake);
       field.appendChild(flake);
