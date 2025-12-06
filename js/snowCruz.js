@@ -1,7 +1,7 @@
 'use strict';
 
 /*
- * js/snowCruz.js 
+ * ./js/snowCruz.js 
  * Not doing any polyfills, this is a one-off, added fun little extra
  * Assumes window.requestAnimationFrame support, unprefixed CSS Transforms,
  * emoji support, and ES6 support
@@ -24,7 +24,7 @@ const period = [
   n => 5 * (Math.sin(0.75 * n) + Math.cos(0.25 * n) - 1)
 ];
 
-/* Emojis to substitute for snowflakes */
+/* 30 Emojis to substitute for snowflakes */
 const fun = ['❤️', '🌈', '⚡️', '💥', '✨', '💫', '👺', '🤑', '🐯', '🐹', '🐺', '😬', '🐵', '👹',
              '🐶', '🐘', '🦉', '🐒', '🐱', '🐫', '🎂', '🍿', '☠️', '🤬', '🤓', '👌', '👨🏻‍💻', '🐷'];
 
