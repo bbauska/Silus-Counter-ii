@@ -13,7 +13,7 @@ body {
   align-items: center;
   flex-direction: column;
   width: 700px;  /* 300%; */
-  background-color: rgba(140, 40, 240, .80);  /* blue, blue */
+  background-color: rgba(40, 40, 240, .80);  /* medium blue with 80% opacity */
   border-radius: 30px;  /* 10px; */
   box-shadow: 0 0 8px 0 rgb(140, 40, 240);  /* very dark cyan */
   margin-top: 100px;
