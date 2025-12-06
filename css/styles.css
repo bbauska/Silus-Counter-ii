@@ -13,7 +13,7 @@ body {
   align-items: center;
   flex-direction: column;
   width: 700px;  /* 300%; */
-  background-color: rgba(218, 25, 233, .7);  /* medium violet */
+  background-color: rgba(63, 126, 253, .80) /* blue, blue */
   border-radius: 30px;  /* 10px; */
   box-shadow: 0 0 8px 0 rgb(3, 75, 85);  /* very dark cyan */
   margin-top: 100px;
