@@ -1,4 +1,4 @@
-/* ./js/scripts.js in silus-count-II of silus-counter-ii.bauska.org */
+/* ./js/scripts.js in silus-counter-3 of silus-counter-3.bauska.org */
 /* 
    dd/mm/yy = 0 */
 let counter = 0;
