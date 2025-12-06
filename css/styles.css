@@ -43,13 +43,13 @@ h1 {
 h2 {
   font-size: 32px;
   justify-content: center;
-  color: rgb(255, 255, 255);  /* white */
+  color: rgb(0, 0, 0);  /* black */
 }
 h3 {
   font-size: 26px;
   justify-content; center;
   background-color: #ffa500;  /* pure orange */
-  color: rgb(200,200,200);  /* light gray */
+  color: rgb(0,0,0);  /* black */
 }
 h4 {
   color: #ffa500;  /* pure orange */
