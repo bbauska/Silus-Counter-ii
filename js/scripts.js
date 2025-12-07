@@ -1,7 +1,7 @@
 /* ./js/scripts.js in silus-counter-3 of silus-counter-3.bauska.org */
-/* 
+/* 12/05/2025 = 2,250
    dd/mm/yy = 0 */
-let counter = 0;
+let counter = 2250;
 /* all times are approximate. */
 
 function count() {
